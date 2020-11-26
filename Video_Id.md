@@ -1,0 +1,30 @@
+# Training
+- https://youtu.be/_3qnL9ddHuw
+- https://youtu.be/HB8-w5CvMls
+- https://youtu.be/vGdV4mJhaKU
+- https://youtu.be/W5lOLZsjOp8
+- https://youtu.be/vHi3_k4XOrA
+- https://youtu.be/PIS76X17Mf8
+- https://youtu.be/DMdJLEGrUrg
+- https://youtu.be/xXwCryMItHs
+- https://youtu.be/49dCBsIGsgY
+- https://youtu.be/OZVMVVQPPPI
+- https://youtu.be/cAnmwgC-JRw
+- https://youtu.be/w77mBaWOOh0
+- https://youtu.be/MGMxImcYhiI
+- https://youtu.be/WqFyqbD9VEQ
+- https://youtu.be/V0P_2QG84MM
+- https://youtu.be/1eEcy3MgqxA
+- https://youtu.be/GH-kkZQQ8G8
+- https://youtu.be/Kk58v56rD0s
+- https://youtu.be/WWqRR7RZGXw
+- https://youtu.be/ouhp7O3Sz8M
+- https://youtu.be/U0v4CckNE68
+- https://youtu.be/VaqWF70DjYs
+- https://youtu.be/m2yadhLP8H8
+- https://youtu.be/wRJlm0lCyoI
+
+Testing
+- https://youtu.be/u5nBBJndN3I
+- https://youtu.be/nwwHuxHMIpc
+- https://youtu.be/ra1jf2nzJPg
