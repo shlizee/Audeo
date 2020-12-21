@@ -18,7 +18,7 @@ class hyperparams(object):
     def __init__(self):
         self.train_epoch = 300
         self.test_freq = 1
-        self.exp_name = 'Roll2MidiNet'
+        self.exp_name = 'Correct_Roll2MidiNet'
 
         self.channels = 1
         self.h = 51 #input Piano key ranges
@@ -72,7 +72,7 @@ def train(generator, discriminator, epoch, train_loader, optimizer_G, optimizer_
         gen_imgs = generator(roll_)
 
         # Loss measures generator's ability to fool the discriminator
-        g_loss = adversarial_loss(gen_imgs, gt)
+        g_loss = 0.001*adversarial_loss(discriminator(gen_imgs), valid) + 0.999*adversarial_loss(gen_imgs, gt)
 
         g_loss.backward()
 
@@ -193,7 +193,7 @@ def main():
 
     try:
         # the dir to save the Roll2Midi model
-        exp_root = os.path.join(os.path.abspath('./'), 'Roll2Midi_experiments')
+        exp_root = os.path.join(os.path.abspath('./'), 'Correct_Roll2Midi_experiments')
         os.makedirs(exp_root)
     except FileExistsError:
         pass
