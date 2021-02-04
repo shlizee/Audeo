@@ -55,7 +55,7 @@ For your convenience, we provide the following folders/files in [Google Drive](h
 
 ## Citation
 
-Please cite the ["Audeo: Audio Generation for a Silent Performance Video"](https://proceedings.neurips.cc/paper/2020/file/227f6afd3b7f89b96c4bb91f95d50f6d-Paper.pdf) when you use this code:
+Please cite ["Audeo: Audio Generation for a Silent Performance Video"](https://proceedings.neurips.cc/paper/2020/file/227f6afd3b7f89b96c4bb91f95d50f6d-Paper.pdf) when you use this code:
 ```
 @article{su2020audeo,
   title={Audeo: Audio generation for a silent performance video},
